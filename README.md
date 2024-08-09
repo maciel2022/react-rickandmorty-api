@@ -1,4 +1,4 @@
-# Rick and Morty AIP con React + Vite
+# Rick and Morty API con React + Vite
 
 Proyecto construido con React y Vite en el cual consumimos la API de rick and Morty. Utilizamos bootstrap 5 para darle estilos a la página.
 
